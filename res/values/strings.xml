@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hole Detector</string>
+    <string name="ENG_switch_1">Switch</string>
+    <string name="ENG_button_1">Settings</string>
+    
+    <string name="ENG_button_2">Database</string>
+    <string name="ENG_button_2_1">Database (+1 new hole)</string>
+    
+    <string name="ENG_textview_1">Time:</string>
+    <string name="ENG_textview_2">Accelerometer</string>
+    
+    <string name="ENG_textview_3">Hole:</string>
+    <string name="ENG_textview_3_1">Hole: Right</string>
+    <string name="ENG_textview_3_2">Hole: Left</string>
+    <string name="ENG_textview_3_3">Hole: -----</string>
+    
+    <string name="ENG_textview_4">Navigation</string>
+    <string name="ENG_textview_5">Latitude:</string>
+    <string name="ENG_textview_6">Longitude:</string>
+    <string name="ENG_textview_7">Hole Size</string>
+    
+    <string name="ENG_textview_8">Size:</string>
+    <string name="ENG_textview_8_1">Size: Small</string>
+    <string name="ENG_textview_8_2">Size: Medium</string>
+    <string name="ENG_textview_8_3">Size: Big</string>
+    
+    <string name="ENG_adding_entry">Adding entry&#8230;</string>
+    <string name="ENG_wait">Please wait for values appearance</string>
+    
+    
+    <string name="ENG_service_start">Service Started</string>
+    <string name="ENG_service_stop">Service Stopped</string>
+    
+    
+    <string name="title_activity_settings">Settings</string>
+    <string name="ENG_textview_9">Language</string>
+    <string name="ENG_textview_10">Server</string>
+    <string name="ENG_switch_2">DataSending</string>
+    <string name="ENG_textview_11">Accelerometer Sensitivity</string>
+    <string name="ENG_textview_12">Logs</string>
+    <string name="ENG_button_3">Official Website</string>
+    <string name="ENG_button_4">Clear</string>
+    <string name="ENG_button_5">Open</string>
+    <string name="ENG_button_6">Configuration</string>
+    
+    <string name="ENG_clear_logs">Logs cleared successfully</string>
+    
+    
+    
+    
+    
+    <string name="POL_app_name">Wykrywacz Dziur</string>
+    <string name="POL_switch_1">Przełącznik</string>
+    <string name="POL_button_1">Ustawienia</string>
+    
+    <string name="POL_button_2">Baza Danych</string>
+    <string name="POL_button_2_1">Baza Danych (+1 nowa dziura)</string>
+    
+    <string name="POL_textview_1">Czas:</string>
+    <string name="POL_textview_2">Akcelerometr</string>
+    
+    <string name="POL_textview_3">Dziura:</string>
+    <string name="POL_textview_3_1">Dziura: Prawa</string>
+    <string name="POL_textview_3_2">Dziura: Lewa</string>
+    <string name="POL_textview_3_3">Dziura: -----</string>
+    
+    <string name="POL_textview_4">Nawigacja</string>
+    <string name="POL_textview_5">Szerokość.Geo:</string>
+    <string name="POL_textview_6">Długość.Geo:</string>
+    <string name="POL_textview_7">Rozmiar Dziury</string>
+    
+    <string name="POL_textview_8">Rozmiar:</string>
+    <string name="POL_textview_8_1">Rozmiar: Mały</string>
+    <string name="POL_textview_8_2">Rozmiar: Średni</string>
+    <string name="POL_textview_8_3">Rozmiar: Duży</string>
+    
+    <string name="POL_adding_entry">Dodawanie wpisu&#8230;</string>
+    <string name="POL_wait">Proszę czekać na pojawienie się wartości</string>
+    
+    
+    <string name="POL_service_start">Usługa Uruchomiona</string>
+    <string name="POL_service_stop">Usługa Zatrzymana</string>
+    
+    
+    <string name="POL_title_activity_settings">Ustawienia</string>
+    <string name="POL_textview_9">Język</string>
+    <string name="POL_textview_10">Serwer</string>
+    <string name="POL_switch_2">WysyłanieDanych</string>
+    <string name="POL_textview_11">Czułość Akcelerometru</string>
+    <string name="POL_textview_12">Logi</string>
+    <string name="POL_button_3">Oficjalna Strona Internetowa</string>
+    <string name="POL_button_4">Wyczyść</string>
+    <string name="POL_button_5">Otwórz</string>
+    <string name="POL_button_6">Konfiguracja</string>
+    
+    <string name="POL_clear_logs">Logi wyczyszczono pomyślnie</string>
+    
+    
+    
+    
+    
+    <string name="GER_app_name">Loch Detektor</string>
+    <string name="GER_switch_1">Schalter</string>
+    <string name="GER_button_1">Einstellungen</string>
+    
+    <string name="GER_button_2">Datenbank</string>
+    <string name="GER_button_2_1">Datenbank (+1 neues loch)</string>
+    
+    <string name="GER_textview_1">Zeit:</string>
+    <string name="GER_textview_2">Beschleunigungsmesser</string>
+    
+    <string name="GER_textview_3">Loch:</string>
+    <string name="GER_textview_3_1">Loch: Rechts</string>
+    <string name="GER_textview_3_2">Loch: Links</string>
+    <string name="GER_textview_3_3">Loch: -----</string>
+    
+    <string name="GER_textview_4">Navigation</string>
+    <string name="GER_textview_5">Breite:</string>
+    <string name="GER_textview_6">Längengrad:</string>
+    <string name="GER_textview_7">Lochgröße</string>
+    
+    <string name="GER_textview_8">Größe:</string>
+    <string name="GER_textview_8_1">Größe: Klein</string>
+    <string name="GER_textview_8_2">Größe: Mittel</string>
+    <string name="GER_textview_8_3">Größe: Groß</string>
+    
+    <string name="GER_adding_entry">Eintrag hinzufügen&#8230;</string>
+    <string name="GER_wait">Bitte warten Sie auf das Erscheinen der Werte</string>
+    
+    
+    <string name="GER_service_start">Dienst Gestartet</string>
+    <string name="GER_service_stop">Service Angehalten</string>
+    
+    
+    <string name="GER_title_activity_settings">Einstellungen</string>
+    <string name="GER_textview_9">Sprache</string>
+    <string name="GER_textview_10">Server</string>
+    <string name="GER_switch_2">DatenSenden</string>
+    <string name="GER_textview_11">Beschleunigungsmesser Empfindlichkeit</string>
+    <string name="GER_textview_12">Protokolle</string>
+    <string name="GER_button_3">Offizielle Website</string>
+    <string name="GER_button_4">Löschen</string>
+    <string name="GER_button_5">Öffnen</string>
+    <string name="GER_button_6">Aufbau</string>
+    
+    <string name="GER_clear_logs">Protokolle wurden erfolgreich gelöscht</string>
+
+</resources>
